@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://orange-ape.cloudvent.net//testing/this-is-a-test-page/</loc>
+<loc>https://help.ignissoftware.nl//testing/this-is-a-test-page/</loc>
 <lastmod>2018-10-29T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://orange-ape.cloudvent.net//faq/</loc>
+<loc>https://help.ignissoftware.nl//faq/</loc>
 </url>
 <url>
-<loc>https://orange-ape.cloudvent.net//</loc>
+<loc>https://help.ignissoftware.nl//</loc>
 </url>
 <url>
-<loc>https://orange-ape.cloudvent.net//videos/</loc>
+<loc>https://help.ignissoftware.nl//videos/</loc>
 </url>
 <url>
-<loc>https://orange-ape.cloudvent.net//category/testing/</loc>
+<loc>https://help.ignissoftware.nl//category/testing/</loc>
 </url>
 </urlset>
