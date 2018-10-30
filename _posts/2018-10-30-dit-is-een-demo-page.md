@@ -8,3 +8,4 @@ type: Document
 ---
 
 dit is mijn content
+![](images/2018-10-30-08-25-15.png)
