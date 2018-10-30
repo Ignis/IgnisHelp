@@ -14,7 +14,7 @@ Doorloop de volgende stappen:
   5. De dagcode bestaat uit 2 groepjes van 3 cijfers. Let op! er moet een spatie staan tussen de 2 groepjes van cijfers.
   6. Klik daarna op update.
   ![](/images/2018-10-30-09-11-03.png)
-
+  _**Figure1:** Dagcode knop_
 
 
 
