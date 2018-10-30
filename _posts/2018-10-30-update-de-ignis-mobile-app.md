@@ -15,3 +15,4 @@ Doorloop de volgende stappen:
 4. Onder het kopje update voer je de dagcode in.
 5. De dagcode bestaat uit 2 groepjes van 3 cijfers. Let op! er moet een spatie staan tussen de 2 groepjes van cijfers.
 6. Klik daarna op update.  ![](/images/2018-10-30-09-11-03.png)
+_ ** dit is een test ** _
