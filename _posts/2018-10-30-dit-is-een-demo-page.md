@@ -1,14 +1,11 @@
 ---
 date: 2018-10-30 06:45:01
-title: Update app
+title: Update app naar laatste versie.
 categories:
   - Algemeen
 description:
 type: Document
 ---
-
-# Update app naar laatste versie.
-
 Doorloop de volgende stappen:
   1. Ga naar het dashboard 
   2. Klik op het icoon rechtsboven ![](/images/2018-10-30-09-08-23.png)
