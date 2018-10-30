@@ -5,7 +5,7 @@
 <lastmod>2018-10-29T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://help.ignissoftware.nl//testing/dit-is-een-demo-page/</loc>
+<loc>https://help.ignissoftware.nl//algemeen/dit-is-een-demo-page/</loc>
 <lastmod>2018-10-30T06:45:01+00:00</lastmod>
 </url>
 <url>
@@ -19,5 +19,8 @@
 </url>
 <url>
 <loc>https://help.ignissoftware.nl//category/testing/</loc>
+</url>
+<url>
+<loc>https://help.ignissoftware.nl//category/algemeen/</loc>
 </url>
 </urlset>
