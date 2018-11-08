@@ -9,7 +9,7 @@ type: Document
 
 Doorloop de volgende stappen:
 
-1. Swipe met je vinger van links naar rechts over het scherm.
+1. Swipe met je vinger van links naar rechts over het scherm..
 2. Kies 'Overzicht' uit het menu wat nu verschijnt.
 3. Klik op het icoon rechtsboven. ![](/images/2018-10-30-09-22-42.png)
 4. Onder het kopje update voer je de dagcode in.
