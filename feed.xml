@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://help.ignissoftware.nl//feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.ignissoftware.nl//" rel="alternate" type="text/html" /><updated>2018-11-09T11:28:27+00:00</updated><id>https://help.ignissoftware.nl//</id><title type="html">Ignis help</title><subtitle>Knowledge base for Ignis Mobile.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Serviceorder scherm</title><link href="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/" rel="alternate" type="text/html" title="Serviceorder scherm" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//serviceorder/Serviceorderscherm</id><content type="html" xml:base="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/">&lt;table&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://help.ignissoftware.nl//feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.ignissoftware.nl//" rel="alternate" type="text/html" /><updated>2018-11-09T11:30:10+00:00</updated><id>https://help.ignissoftware.nl//</id><title type="html">Ignis help</title><subtitle>Knowledge base for Ignis Mobile.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Serviceorder scherm</title><link href="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/" rel="alternate" type="text/html" title="Serviceorder scherm" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//serviceorder/Serviceorderscherm</id><content type="html" xml:base="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;i class=&quot;fas fa-arrow-left&quot;&gt;&lt;/i&gt;&lt;/td&gt;
@@ -24,12 +24,28 @@
 &lt;/table&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Het menu op de servicebon bevat de volgende functies:&lt;/strong&gt;&lt;br /&gt;
-|——-                         |                                   |
-|&lt;i class=&quot;fas fa-envelope&quot;&gt;&lt;/i&gt;|  Emailen rapportage|
-|&lt;i class=&quot;fas fa-user&quot;&gt;&lt;/i&gt;  | Contact gegevens inzien en wijzigen|
-|&lt;i class=&quot;fas fa-phone&quot;&gt;&lt;/i&gt; | Contact direct bellen|
-|&lt;i class=&quot;fas fa-chart-bar&quot;&gt;&lt;/i&gt;|  Aantallen verbruik inzien|&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Het menu op de servicebon bevat de volgende functies:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;i class=&quot;fas fa-envelope&quot;&gt;&lt;/i&gt;&lt;/td&gt;
+      &lt;td&gt;Emailen rapportage&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;i class=&quot;fas fa-user&quot;&gt;&lt;/i&gt;&lt;/td&gt;
+      &lt;td&gt;Contact gegevens inzien en wijzigen&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;i class=&quot;fas fa-phone&quot;&gt;&lt;/i&gt;&lt;/td&gt;
+      &lt;td&gt;Contact direct bellen&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;i class=&quot;fas fa-chart-bar&quot;&gt;&lt;/i&gt;&lt;/td&gt;
+      &lt;td&gt;Aantallen verbruik inzien&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Er zijn 3 tabbladen op de servicebon aanwezig:&lt;/strong&gt;&lt;br /&gt;
