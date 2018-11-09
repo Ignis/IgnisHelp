@@ -11,7 +11,7 @@ Het swipe menu kun je bereiken door met je vinger van links naar rechts over je 
 *Let wel op dat je begint vanaf de rand aan de linkerkant van je scherm*
 
 |                               |                                                             |
-|**Overzicht**                  | Dit toont het dashboard                                     |
+|<i class="fa fa-person"></i>|**Overzicht**                  | Dit toont het dashboard                                     |
 |**Synchroniseren**             | Om gegevens te versturen en te ontvangen                    |  
 |**Serviceorders**              | Serviceorders worden getoond in een uitgebreide weergave    |
 |**Planlijst**                  | Overzicht uit te voeren serviceorders op datum en tijd      |
