@@ -12,7 +12,8 @@ type: Document
 |<i class="fas fa-chart-bar"></i>|  Aantallen te controleren objecten extra handelingen wordt getoond|
 |<i class="fas fa-shopping-basket"></i>|  Hiermee kan losse verkoop toegevoegd worden aan de winkelmand|
 |<i class="fas fa-bars"></i>|  Dit geeft een menu weer.|
-  
+
+----
 **<i class="fas fa-bars"></i> Dit menu bevat de volgende opties**
 
 |-------                         |                                   |
