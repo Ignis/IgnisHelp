@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://help.ignissoftware.nl//feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.ignissoftware.nl//" rel="alternate" type="text/html" /><updated>2018-11-09T12:35:46+00:00</updated><id>https://help.ignissoftware.nl//</id><title type="html">Ignis help</title><subtitle>Knowledge base for Ignis Mobile.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Serviceorder scherm</title><link href="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/" rel="alternate" type="text/html" title="Serviceorder scherm" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//serviceorder/Serviceorderscherm</id><content type="html" xml:base="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/">&lt;table&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://help.ignissoftware.nl//feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.ignissoftware.nl//" rel="alternate" type="text/html" /><updated>2018-11-09T12:38:05+00:00</updated><id>https://help.ignissoftware.nl//</id><title type="html">Ignis help</title><subtitle>Knowledge base for Ignis Mobile.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Serviceorder scherm</title><link href="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/" rel="alternate" type="text/html" title="Serviceorder scherm" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//serviceorder/Serviceorderscherm</id><content type="html" xml:base="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;i class=&quot;fas fa-arrow-left&quot;&gt;&lt;/i&gt;&lt;/td&gt;
@@ -104,18 +104,18 @@
 &lt;p&gt;Wanneer het dashboard geopend is selecteer dan &lt;i class=&quot;fas fa-wrench&quot;&gt;&lt;/i&gt;  rechtsboven in het scherm.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Tab Algemeen
+  &lt;li&gt;&lt;em&gt;Tab Algemeen&lt;/em&gt;
     &lt;ul&gt;
       &lt;li&gt;Webservice url:  dit is de sync url met de backoffice&lt;/li&gt;
       &lt;li&gt;Update: hiermee kun je de app updaten wanneer een dagcode ontvangen is&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Tab Configuratie
+  &lt;li&gt;&lt;em&gt;Tab Configuratie&lt;/em&gt;
     &lt;ul&gt;
       &lt;li&gt;Direkt OK keuring tonen: Wanneer een keuring aangemaakt wordt dan zal het keuringsscherm automatisch weer gesloten worden.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Tab Handtekening
+  &lt;li&gt;&lt;em&gt;Tab Handtekening&lt;/em&gt;
     &lt;ul&gt;
       &lt;li&gt;Hier kan de monteur zijn standaard handtekening plaatsen die dan ook op elke servicebon zichtbaar wordt.&lt;/li&gt;
     &lt;/ul&gt;
