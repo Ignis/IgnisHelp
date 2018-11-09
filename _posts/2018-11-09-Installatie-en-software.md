@@ -1,13 +1,11 @@
 ---
 date: 2018-10-30 00:00:00
-title: Installeren app
+title: Ignis mobile v2 - Android 
 categories:
   - Setup
 description:
 type: Document
 ---
-
-## Ignis mobile v2 - Android  
 
 Download: [Laatste versie]("http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk")
 
