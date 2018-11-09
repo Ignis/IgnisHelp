@@ -1,6 +1,6 @@
 ---
 date: 2018-10-30 00:00:00
-title: Ignis mobile v2 - Android 
+title: Installatie en addon
 categories:
   - Setup
 description:
