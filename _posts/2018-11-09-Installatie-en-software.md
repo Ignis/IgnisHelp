@@ -12,6 +12,6 @@ Download: [Laatste versie]("http://apk4umobile.v2.ignissoftware.nl/apkupdates/mo
 Teamviewer Support:
 [Teamviewer QS]("https://download.teamviewer.com/download/TeamViewerQS.apk")
 
-Add on:  
+Add on teamviewer:  
 [Point Mobile]("http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/tvaddonpm.apk")  
 [Android 7]("http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/tvaddon.aosp7.apk">)
