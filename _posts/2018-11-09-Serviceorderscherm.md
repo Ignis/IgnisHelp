@@ -14,7 +14,7 @@ type: Document
 - ![](/images/2018-11-09-09-11-14.png) Dit geeft een menu weer.
 
 * * *
-* ![](/images/2018-11-09-10-32-34.png)
+![](/images/2018-11-09-10-32-34.png)
 **Het menu op de servicebon bevat de volgende functies:**
   - Emailen rapportage
   - Contact gegevens inzien en wijzigen
@@ -22,7 +22,7 @@ type: Document
   - Aantallen verbruik inzien
 
 * * *
-* ![](/images/2018-11-09-10-33-02.png)
+![](/images/2018-11-09-10-33-02.png)
 **Er zijn 3 tabbladen op de servicebon aanwezig:**
 - Bon
     - Hier staan de basisgegevens nodig voor het onderhoud
