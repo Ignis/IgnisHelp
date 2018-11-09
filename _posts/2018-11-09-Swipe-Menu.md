@@ -10,7 +10,7 @@ type: Document
 Het swipe menu kun je bereiken door met je vinger van links naar rechts over je scherm te vegen.
 *Let wel op dat je begint vanaf de rand aan de linkerkant van je scherm*
 
-|                                   |                               |                                                             |
+|--------------------------                                   |                               |                                                             |
 |<i class="fas fa-home"></i>        |Overzicht                  | Dit toont het dashboard                                     |
 |<i class="fas fa-sync"></i>        |Synchroniseren             | Om gegevens te versturen en te ontvangen                    |  
 |<i class="fas fa-wrench"></i>      |Serviceorders              | Serviceorders worden getoond in een uitgebreide weergave    |
