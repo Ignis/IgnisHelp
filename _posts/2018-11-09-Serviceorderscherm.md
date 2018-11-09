@@ -13,13 +13,14 @@ type: Document
 - ![](/images/2018-11-09-09-10-42.png) Hiermee kan losse verkoop toegevoegd worden aan de winkelmand
 - ![](/images/2018-11-09-09-11-14.png) Dit geeft een menu weer.
 
-**Het menu op de servicebon bevat de volgende functies:**
+
+## Het menu op de servicebon bevat de volgende functies:
   - Emailen rapportage
   - Contact gegevens inzien en wijzigen
   - Contact direct bellen
   - Aantallen verbruik inzien
 
-**Er zijn 3 tabbladen op de servicebon aanwezig:**
+## Er zijn 3 tabbladen op de servicebon aanwezig:
 - Bon
     - Hier staan de basisgegevens nodig voor het onderhoud
 - Notities
