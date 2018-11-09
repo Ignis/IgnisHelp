@@ -2,7 +2,7 @@
 date: 2018-11-08 00:00:00
 title: Openen serviceorder
 categories:
-  - Algemeen
+  - Serviceorder
 description:
 type: Document
 ---
@@ -14,3 +14,4 @@ Voor het Openen van een serviceorder moet je het volgende doen:
 3. Kies onder het kopje 'Service order' voor 'Adressen'
 4. Selecteer de bon die je wilt openen
 5. Klik de bovenste optie 'Details'
+6. ![](/images/2018-11-09-08-25-19.png)
