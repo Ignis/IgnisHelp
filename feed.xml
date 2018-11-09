@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://help.ignissoftware.nl//feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.ignissoftware.nl//" rel="alternate" type="text/html" /><updated>2018-11-09T08:23:31+00:00</updated><id>https://help.ignissoftware.nl//</id><title type="html">Ignis help</title><subtitle>Knowledge base for Ignis Mobile.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Serviceorder scherm</title><link href="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/" rel="alternate" type="text/html" title="Serviceorder scherm" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//serviceorder/Serviceorderscherm</id><content type="html" xml:base="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://help.ignissoftware.nl//feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.ignissoftware.nl//" rel="alternate" type="text/html" /><updated>2018-11-09T08:24:22+00:00</updated><id>https://help.ignissoftware.nl//</id><title type="html">Ignis help</title><subtitle>Knowledge base for Ignis Mobile.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Serviceorder scherm</title><link href="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/" rel="alternate" type="text/html" title="Serviceorder scherm" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//serviceorder/Serviceorderscherm</id><content type="html" xml:base="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/">&lt;ul&gt;
   &lt;li&gt;&lt;img src=&quot;/images/2018-11-09-09-08-44.png&quot; alt=&quot;&quot; /&gt; Hiermee verlaat je de serviceorder&lt;/li&gt;
   &lt;li&gt;&lt;img src=&quot;/images/2018-11-09-09-09-23.png&quot; alt=&quot;&quot; /&gt; Dit icoon opent de looplijst van de relatie&lt;/li&gt;
   &lt;li&gt;&lt;img src=&quot;/images/2018-11-09-09-09-48.png&quot; alt=&quot;&quot; /&gt; Aantallen te controleren objecten extra handelingen wordt getoond&lt;/li&gt;
@@ -6,6 +6,7 @@
   &lt;li&gt;&lt;img src=&quot;/images/2018-11-09-09-11-14.png&quot; alt=&quot;&quot; /&gt; Dit geeft een menu weer.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;hr /&gt;
 &lt;h2 id=&quot;het-menu-op-de-servicebon-bevat-de-volgende-functies&quot;&gt;Het menu op de servicebon bevat de volgende functies:&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Emailen rapportage&lt;/li&gt;
@@ -14,6 +15,7 @@
   &lt;li&gt;Aantallen verbruik inzien&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;hr /&gt;
 &lt;h2 id=&quot;er-zijn-3-tabbladen-op-de-servicebon-aanwezig&quot;&gt;Er zijn 3 tabbladen op de servicebon aanwezig:&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Bon
