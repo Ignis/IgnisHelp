@@ -15,6 +15,7 @@ type: Document
 
 ----
 **Het menu op de servicebon bevat de volgende functies:**  
+
 |-------                         |                                   |
 |<i class="fas fa-envelope"></i>|  Emailen rapportage|
 |<i class="fas fa-user"></i>  | Contact gegevens inzien en wijzigen|
