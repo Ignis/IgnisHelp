@@ -8,8 +8,8 @@ type: Document
 ---
 
 |-----      |------     |
-|Versie     |Datum      |
-|0.8.2.1    |09-11-2018 |
+|Versie     |0.8.2.1      |
+|Datum      |09-11-2018 |
 
 - Servicewissel bestaande blusser Bouwjaar - 5 voor keuring '#127 BUGS
 - sync verwijderen kr / ko gaat fout '#118 BUGS
