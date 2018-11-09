@@ -21,3 +21,5 @@ Het swipe menu kun je bereiken door met je vinger van links naar rechts over je 
 |**Kaart**                      | Geografische weergave van alle serviceorder adressen        |
 |**Tijdregistratie**            | Voor het vastleggen van tijdactiviteiten                    |
 |**Kilometer registratie**      | Voor het vastleggen van kilometers                          |
+
+![](/images/2018-11-09-10-28-21.png)
