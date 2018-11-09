@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://help.ignissoftware.nl//feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.ignissoftware.nl//" rel="alternate" type="text/html" /><updated>2018-11-09T08:46:59+00:00</updated><id>https://help.ignissoftware.nl//</id><title type="html">Ignis help</title><subtitle>Knowledge base for Ignis Mobile.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Serviceorder scherm</title><link href="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/" rel="alternate" type="text/html" title="Serviceorder scherm" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//serviceorder/Serviceorderscherm</id><content type="html" xml:base="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://help.ignissoftware.nl//feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.ignissoftware.nl//" rel="alternate" type="text/html" /><updated>2018-11-09T09:01:18+00:00</updated><id>https://help.ignissoftware.nl//</id><title type="html">Ignis help</title><subtitle>Knowledge base for Ignis Mobile.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Serviceorder scherm</title><link href="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/" rel="alternate" type="text/html" title="Serviceorder scherm" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//serviceorder/Serviceorderscherm</id><content type="html" xml:base="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/">&lt;ul&gt;
   &lt;li&gt;&lt;img src=&quot;/images/2018-11-09-09-08-44.png&quot; alt=&quot;&quot; /&gt; Hiermee verlaat je de serviceorder&lt;/li&gt;
   &lt;li&gt;&lt;img src=&quot;/images/2018-11-09-09-09-23.png&quot; alt=&quot;&quot; /&gt; Dit icoon opent de looplijst van de relatie&lt;/li&gt;
   &lt;li&gt;&lt;img src=&quot;/images/2018-11-09-09-09-48.png&quot; alt=&quot;&quot; /&gt; Aantallen te controleren objecten extra handelingen wordt getoond&lt;/li&gt;
@@ -43,20 +43,34 @@
   &lt;li&gt;Klik de bovenste optie ‘Details’&lt;/li&gt;
 &lt;/ol&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Voor het Openen van een serviceorder moet je het volgende doen:</summary></entry><entry><title type="html">Looplijst</title><link href="https://help.ignissoftware.nl//keuringsobject/Looplijst-openen/" rel="alternate" type="text/html" title="Looplijst" /><published>2018-10-30T10:47:00+00:00</published><updated>2018-10-30T10:47:00+00:00</updated><id>https://help.ignissoftware.nl//keuringsobject/Looplijst-openen</id><content type="html" xml:base="https://help.ignissoftware.nl//keuringsobject/Looplijst-openen/">&lt;p&gt;De looplijst van een werkadres kun je openen door eerst de servicebon van het betreffende werkadres te openen en daarna klik je op &lt;img src=&quot;/images/2018-11-09-09-09-23.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2018-11-09-09-33-44.png&quot; alt=&quot;&quot; /&gt;
-Het zoekveld kan gebruikt worden om objecten te zoeken. Er kan op elk onderdeel gezocht worden: objectnummer, serienummer, categorie, soort, merk, type, bouwjaar, locatie enz.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2018-11-09-09-35-43.png&quot; alt=&quot;&quot; /&gt;
-Deze status geeft aan dat het object nog geen ‘keuring’ heeft.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2018-11-09-09-36-17.png&quot; alt=&quot;&quot; /&gt;
-Deze status geeft aan dat het object goedgekeurd is.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2018-11-09-09-37-30.png&quot; alt=&quot;&quot; /&gt;
-Deze status geeft aan dat het object afgekeurd is.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2018-11-09-09-37-52.png&quot; alt=&quot;&quot; /&gt;
-Deze status geeft aan dat het object niet gecontroleerd is om een bepaalde reden.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">De looplijst van een werkadres kun je openen door eerst de servicebon van het betreffende werkadres te openen en daarna klik je op</summary></entry><entry><title type="html">Kopieer keuringsobject</title><link href="https://help.ignissoftware.nl//keuringsobject/kopieer-keuringsobject/" rel="alternate" type="text/html" title="Kopieer keuringsobject" /><published>2018-10-30T10:47:00+00:00</published><updated>2018-10-30T10:47:00+00:00</updated><id>https://help.ignissoftware.nl//keuringsobject/kopieer-keuringsobject</id><content type="html" xml:base="https://help.ignissoftware.nl//keuringsobject/kopieer-keuringsobject/">&lt;p&gt;Video: &lt;a href=&quot;http://ignissoftware.nl/helpmobile20/Ignis.Android.Kopieer%20object.mp4&quot;&gt;…&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Video: …</summary></entry><entry><title type="html">Update de Ignis Mobile app</title><link href="https://help.ignissoftware.nl//algemeen/update-de-ignis-mobile-app/" rel="alternate" type="text/html" title="Update de Ignis Mobile app" /><published>2018-10-30T00:00:00+00:00</published><updated>2018-10-30T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//algemeen/update-de-ignis-mobile-app</id><content type="html" xml:base="https://help.ignissoftware.nl//algemeen/update-de-ignis-mobile-app/">&lt;p&gt;Doorloop de volgende stappen:&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;img&lt;/td&gt;
+      &lt;td&gt;omschrijving&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/images/2018-11-09-09-33-44.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;Het zoekveld kan gebruikt worden om objecten te zoeken. Er kan op elk onderdeel gezocht worden: objectnummer, serienummer, categorie, soort, merk, type, bouwjaar, locatie enz.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/images/2018-11-09-09-35-43.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;Deze status geeft aan dat het object nog geen ‘keuring’ heeft.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/images/2018-11-09-09-36-17.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;Deze status geeft aan dat het object goedgekeurd is.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/images/2018-11-09-09-37-30.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;Deze status geeft aan dat het object afgekeurd is.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/images/2018-11-09-09-37-52.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;Deze status geeft aan dat het object niet gecontroleerd is om een bepaalde reden.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">De looplijst van een werkadres kun je openen door eerst de servicebon van het betreffende werkadres te openen en daarna klik je op</summary></entry><entry><title type="html">Kopieer keuringsobject</title><link href="https://help.ignissoftware.nl//keuringsobject/kopieer-keuringsobject/" rel="alternate" type="text/html" title="Kopieer keuringsobject" /><published>2018-10-30T10:47:00+00:00</published><updated>2018-10-30T10:47:00+00:00</updated><id>https://help.ignissoftware.nl//keuringsobject/kopieer-keuringsobject</id><content type="html" xml:base="https://help.ignissoftware.nl//keuringsobject/kopieer-keuringsobject/">&lt;p&gt;Video: &lt;a href=&quot;http://ignissoftware.nl/helpmobile20/Ignis.Android.Kopieer%20object.mp4&quot;&gt;…&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Video: …</summary></entry><entry><title type="html">Update de Ignis Mobile app</title><link href="https://help.ignissoftware.nl//algemeen/update-de-ignis-mobile-app/" rel="alternate" type="text/html" title="Update de Ignis Mobile app" /><published>2018-10-30T00:00:00+00:00</published><updated>2018-10-30T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//algemeen/update-de-ignis-mobile-app</id><content type="html" xml:base="https://help.ignissoftware.nl//algemeen/update-de-ignis-mobile-app/">&lt;p&gt;Doorloop de volgende stappen:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Swipe met je vinger van links naar rechts over het scherm..&lt;/li&gt;
