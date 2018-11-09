@@ -6,8 +6,8 @@ categories:
 description:
 type: Document
 ---
-|==========||
-|<i class="fas fa-arrow-left"></i>|  Hiermee verlaat je de serviceorder|
+|==========                         |                                   |
+|<i class="fas fa-arrow-left"></i>  |  Hiermee verlaat je de serviceorder|
 |<i class="fas fa-building"></i>|  Dit icoon opent de looplijst van de relatie|
 |<i class="fas fa-chart-bar"></i>|  Aantallen te controleren objecten extra handelingen wordt getoond|
 |<i class="fas fa-shopping-basket"></i>|  Hiermee kan losse verkoop toegevoegd worden aan de winkelmand|
