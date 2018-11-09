@@ -14,7 +14,6 @@ type: Document
 - ![](/images/2018-11-09-09-11-14.png) Dit geeft een menu weer.
 
 ----
-
 **Het menu op de servicebon bevat de volgende functies:**  
 ![](/images/2018-11-09-10-32-34.png)
   - Emailen rapportage
@@ -23,7 +22,6 @@ type: Document
   - Aantallen verbruik inzien
 
 ----
-
 **Er zijn 3 tabbladen op de servicebon aanwezig:**  
 ![](/images/2018-11-09-10-33-02.png)
 - Bon
