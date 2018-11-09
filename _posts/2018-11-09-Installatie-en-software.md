@@ -7,7 +7,7 @@ description:
 type: Document
 ---
 
-## Ignis mobile v2 - Android
+## Ignis mobile v2 - Android  
 
 Download: [Laatste versie]("http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk")
 
