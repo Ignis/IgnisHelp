@@ -15,10 +15,11 @@ type: Document
 
 ----
 **Het menu op de servicebon bevat de volgende functies:**  
-- <i class="fas fa-envelope"></i>  Emailen rapportage
-- <i class="fas fa-user"></i>  Contact gegevens inzien en wijzigen
-- <i class="fas fa-phone"></i>  Contact direct bellen
-- <i class="fas fa-chart-bar"></i>  Aantallen verbruik inzien
+|-------                         |                                   |
+|<i class="fas fa-envelope"></i>|  Emailen rapportage|
+|<i class="fas fa-user"></i>  | Contact gegevens inzien en wijzigen|
+|<i class="fas fa-phone"></i> | Contact direct bellen|
+|<i class="fas fa-chart-bar"></i>|  Aantallen verbruik inzien|
 
 ----
 **Er zijn 3 tabbladen op de servicebon aanwezig:**  
