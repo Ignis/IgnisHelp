@@ -8,7 +8,7 @@ type: Document
 ---
 
 |-----      |------     |
-|Versie     |0.8.2.1      |
+|Versie     |[0.8.2.1]("http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk")      |
 |Datum      |09-11-2018 |
 
 - Servicewissel bestaande blusser Bouwjaar - 5 voor keuring '#127 BUGS
