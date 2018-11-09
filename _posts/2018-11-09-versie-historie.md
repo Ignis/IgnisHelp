@@ -8,7 +8,7 @@ type: Document
 ---
 
 |-----      |------     |
-|Versie     |<a href="http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk">0.8.2.1</a>      |
+|**Versie**     |<a href="http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk">0.8.2.1</a>      |
 |Datum      |09-11-2018 |
 
 - Servicewissel bestaande blusser Bouwjaar - 5 voor keuring '#127 BUGS
@@ -24,7 +24,7 @@ type: Document
 - voorbereiden endpoint en client voor versie check '#6 Feature request
 
 |-----      |------     |
-|Versie     |<a href="http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.820.apk">0.8.2.0</a>      |
+|**Versie**     |<a href="http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.820.apk">0.8.2.0</a>      |
 |Datum      |30-10-2018 |
 
 - Synchronisatie zeer traag bij binnenhalen van nieuwe servicebonnen '#98 BUGS
