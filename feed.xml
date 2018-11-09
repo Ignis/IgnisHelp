@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://help.ignissoftware.nl//feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.ignissoftware.nl//" rel="alternate" type="text/html" /><updated>2018-11-09T14:51:30+00:00</updated><id>https://help.ignissoftware.nl//</id><title type="html">Ignis help</title><subtitle>Knowledge base for Ignis Mobile.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Serviceorder scherm</title><link href="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/" rel="alternate" type="text/html" title="Serviceorder scherm" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//serviceorder/Serviceorderscherm</id><content type="html" xml:base="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/">&lt;table&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://help.ignissoftware.nl//feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.ignissoftware.nl//" rel="alternate" type="text/html" /><updated>2018-11-09T14:56:07+00:00</updated><id>https://help.ignissoftware.nl//</id><title type="html">Ignis help</title><subtitle>Knowledge base for Ignis Mobile.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Versie log</title><link href="https://help.ignissoftware.nl//versie%20historie/versie-historie/" rel="alternate" type="text/html" title="Versie log" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//versie%20historie/versie-historie</id><content type="html" xml:base="https://help.ignissoftware.nl//versie%20historie/versie-historie/">&lt;p&gt;&lt;strong&gt;Versiebeheer:&lt;/strong&gt;
+|Versie     |Datum      |
+|0.8.2.1    |09-11-2018 |&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Servicewissel bestaande blusser Bouwjaar - 5 voor keuring ‘#127 BUGS&lt;/li&gt;
+  &lt;li&gt;sync verwijderen kr / ko gaat fout ‘#118 BUGS&lt;/li&gt;
+  &lt;li&gt;Zoeken vind niet alle artikelen ‘#117 BUGS&lt;/li&gt;
+  &lt;li&gt;BomListAction - ‘#104 BUGS&lt;/li&gt;
+  &lt;li&gt;Maak nieuwe login compatible met oude sync/pda ‘#128 To Do&lt;/li&gt;
+  &lt;li&gt;Sync button uitzetten wanneer sync loopt ‘#125 To Do&lt;/li&gt;
+  &lt;li&gt;Keuzelijst Accu/Lamp werkt niet #119&lt;/li&gt;
+  &lt;li&gt;filters looplijst uitbreiden met oa categorieen en wat nog gecontroleerd moet worden, zie op ‘#116 Feature request&lt;/li&gt;
+  &lt;li&gt;User login check in groep monteurs ‘#115 Feature request&lt;/li&gt;
+  &lt;li&gt;Login scherm bij init hetzelfde maken als standaard login ‘#114 Feature request&lt;/li&gt;
+  &lt;li&gt;voorbereiden endpoint en client voor versie check ‘#6 Feature request&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Versiebeheer: |Versie |Datum | |0.8.2.1 |09-11-2018 |</summary></entry><entry><title type="html">Serviceorder scherm</title><link href="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/" rel="alternate" type="text/html" title="Serviceorder scherm" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//serviceorder/Serviceorderscherm</id><content type="html" xml:base="https://help.ignissoftware.nl//serviceorder/Serviceorderscherm/">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;i class=&quot;fas fa-arrow-left&quot;&gt;&lt;/i&gt;&lt;/td&gt;
