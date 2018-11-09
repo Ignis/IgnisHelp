@@ -9,6 +9,9 @@ type: Document
 
 Instructie filmpjes.
 
+- [Openen looplijst]("http://ignissoftware.nl/helpmobile20/Ignis.Android.Openen looplijst.mp4")
+- [Aanmaken nieuw object]("http://ignissoftware.nl/helpmobile20/Ignis.Android.Aanmaken nieuw object in looplijst.mp4")
+
     <table>
         <tr><td><b>Ignis Mobile 2.0 HELP</b></td></tr>
         <tr><td><br /></td></tr>
