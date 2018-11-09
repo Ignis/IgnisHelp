@@ -23,6 +23,8 @@ author:
 # -----
 # Build
 
+markdown: kramdown
+
 timezone: Etc/UTC
 
 permalink: /:categories/:title/
