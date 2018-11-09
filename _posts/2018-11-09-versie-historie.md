@@ -7,7 +7,7 @@ description:
 type: Document
 ---
 
-**Versiebeheer:**
+|-----      |------     |
 |Versie     |Datum      |
 |0.8.2.1    |09-11-2018 |
 
