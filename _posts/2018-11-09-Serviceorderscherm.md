@@ -13,8 +13,9 @@ type: Document
 |<i class="fas fa-shopping-basket"></i>|  Hiermee kan losse verkoop toegevoegd worden aan de winkelmand|
 |<i class="fas fa-bars"></i>|  Dit geeft een menu weer.|
 
-  
-<i class="fas fa-bars"></i> Dit menu bevat:
+
+**<i class="fas fa-bars"></i> Dit menu bevat de volgende opties**
+
 |-------                         |                                   |
 |<i class="fas fa-envelope"></i>|  Emailen rapportage|
 |<i class="fas fa-user"></i>  | Contact gegevens inzien en wijzigen|
