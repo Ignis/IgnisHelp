@@ -2,7 +2,7 @@
 date: 2018-11-08 00:00:00
 title: Openen serviceorder
 categories:
-  - Algemeen
+  - Serviceorder
 description:
 type: Document
 ---
