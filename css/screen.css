@@ -255,6 +255,9 @@ code, pre, tt {
   border-radius: 2px;
   padding: 2px 5px; }
 
+hr {
+  border-top: #000 1px solid; }
+
 .count {
   color: #ccc;
   font-size: .7em;
