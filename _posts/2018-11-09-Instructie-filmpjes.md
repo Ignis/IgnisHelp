@@ -8,10 +8,9 @@ type: Document
 ---
 
 Instructie filmpjes.
--
+[----]("-")
+
     <table>
-        <tr><td><b>Ignis Mobile 2.0 HELP</b></td></tr>
-        <tr><td><br /></td></tr>
         <tr><td><a href="http://ignissoftware.nl/helpmobile20/Ignis.Android.Openen looplijst.mp4">- Openen looplijst</a></td></tr>
         <tr><td><br /></td></tr>
         <tr><td><a href="http://ignissoftware.nl/helpmobile20/Ignis.Android.Aanmaken nieuw object in looplijst.mp4">- Aanmaken nieuw object</a></td></tr>
