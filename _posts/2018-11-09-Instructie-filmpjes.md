@@ -8,7 +8,7 @@ type: Document
 ---
 
 Instructie filmpjes.
-[----]("-")
+- [I'm an inline-style link](https://www.google.com)
 
     <table>
         <tr><td><a href="http://ignissoftware.nl/helpmobile20/Ignis.Android.Openen looplijst.mp4">- Openen looplijst</a></td></tr>
