@@ -22,6 +22,7 @@ type: Document
 - User login check in groep monteurs '#115 Feature request
 - Login scherm bij init hetzelfde maken als standaard login '#114 Feature request
 - voorbereiden endpoint en client voor versie check '#6 Feature request
+- In 'Map' worden nu ook de serviceorder aantallen weergegeven.
 
 |-----      |------     |
 |**Versie**     |<a href="http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.820.apk">0.8.2.0</a>      |
