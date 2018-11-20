@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://help.ignissoftware.nl//feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.ignissoftware.nl//" rel="alternate" type="text/html" /><updated>2018-11-12T06:32:55+00:00</updated><id>https://help.ignissoftware.nl//</id><title type="html">Ignis help</title><subtitle>Knowledge base for Ignis Mobile.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Versie log</title><link href="https://help.ignissoftware.nl//versiebeheer/versie-historie/" rel="alternate" type="text/html" title="Versie log" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//versiebeheer/versie-historie</id><content type="html" xml:base="https://help.ignissoftware.nl//versiebeheer/versie-historie/">&lt;table&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://help.ignissoftware.nl//feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.ignissoftware.nl//" rel="alternate" type="text/html" /><updated>2018-11-20T18:14:22+00:00</updated><id>https://help.ignissoftware.nl//</id><title type="html">Ignis help</title><subtitle>Knowledge base for Ignis Mobile.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Versie log</title><link href="https://help.ignissoftware.nl//versiebeheer/versie-historie/" rel="alternate" type="text/html" title="Versie log" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//versiebeheer/versie-historie</id><content type="html" xml:base="https://help.ignissoftware.nl//versiebeheer/versie-historie/">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Versie&lt;/strong&gt;&lt;/td&gt;
@@ -134,7 +134,57 @@
   &lt;li&gt;Kies onder het kopje ‘Serviceorder’ voor ‘Adressen’&lt;/li&gt;
   &lt;li&gt;Selecteer de bon die je wilt openen&lt;/li&gt;
   &lt;li&gt;Klik de bovenste optie ‘Details’&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Voor het Openen van een serviceorder moet je het volgende doen:</summary></entry><entry><title type="html">Looplijst</title><link href="https://help.ignissoftware.nl//keuringsobject/Looplijst-openen/" rel="alternate" type="text/html" title="Looplijst" /><published>2018-10-30T10:47:00+00:00</published><updated>2018-10-30T10:47:00+00:00</updated><id>https://help.ignissoftware.nl//keuringsobject/Looplijst-openen</id><content type="html" xml:base="https://help.ignissoftware.nl//keuringsobject/Looplijst-openen/">&lt;p&gt;De looplijst van een werkadres kun je openen door eerst de servicebon van het betreffende werkadres te openen en daarna klik je op &lt;img src=&quot;/images/2018-11-09-09-09-23.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Voor het Openen van een serviceorder moet je het volgende doen:</summary></entry><entry><title type="html">Keuringsresultaat</title><link href="https://help.ignissoftware.nl//keuringsresultaat/Keuringsresultaat/" rel="alternate" type="text/html" title="Keuringsresultaat" /><published>2018-10-30T10:47:00+00:00</published><updated>2018-10-30T10:47:00+00:00</updated><id>https://help.ignissoftware.nl//keuringsresultaat/Keuringsresultaat</id><content type="html" xml:base="https://help.ignissoftware.nl//keuringsresultaat/Keuringsresultaat/">&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;i class=&quot;fas fa-arrow-left&quot;&gt;&lt;/i&gt;&lt;/td&gt;
+      &lt;td&gt;Hiermee verlaat je het keuringsresultaat&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;i class=&quot;fas fa-shopping-basket&quot;&gt;&lt;/i&gt;&lt;/td&gt;
+      &lt;td&gt;Dit opent de winkelmand om verbruikte materialen toe te voegen&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;i class=&quot;fas fa-camera-retro&quot;&gt;&lt;/i&gt;&lt;/td&gt;
+      &lt;td&gt;Voor het toevoegen van foto’s aan de keuring&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;i class=&quot;fas fa-lightbulb&quot;&gt;&lt;/i&gt;&lt;/td&gt;
+      &lt;td&gt;Voor het maken van adviezen tbv vervolgactie ‘offerte maken’&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Tab Algemeen#
+Onder het kopje ‘&lt;em&gt;Object&lt;/em&gt;’ staan de details van het object waarvoor een keuring wordt gemaakt. Door op die details te klikken kun je de keuringsobject details wijzigen.&lt;/p&gt;
+
+&lt;p&gt;Onder het kopje ‘&lt;em&gt;keuring&lt;/em&gt;’ bevinden zich:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Type
+    &lt;ul&gt;
+      &lt;li&gt;Standaard is het type ‘Keuringsresultaat’. Wanneer een keuring niet berekend mag worden dan kan gekozen worden voor type ‘service onderhoud’&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Status
+    &lt;ul&gt;
+      &lt;li&gt;Dit geeft de eindbeoordeling van de keuring&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Vervolgactie
+    &lt;ul&gt;
+      &lt;li&gt;Hiermee wordt aangegeven wat de vervolgactie is wanneer het object niet gebruiksklaar is.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tijdelijk
+    &lt;ul&gt;
+      &lt;li&gt;Om aan te geven dat een tijdelijke leenblusser is achtergelaten bij dit object&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Onder het kopje &lt;em&gt;Opmerking&lt;/em&gt; kun informatie gegeven worden over b.v. de reden van afkeur&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Hiermee verlaat je het keuringsresultaat Dit opent de winkelmand om verbruikte materialen toe te voegen Voor het toevoegen van foto’s aan de keuring Voor het maken van adviezen tbv vervolgactie ‘offerte maken’</summary></entry><entry><title type="html">Looplijst</title><link href="https://help.ignissoftware.nl//keuringsobject/Looplijst-openen/" rel="alternate" type="text/html" title="Looplijst" /><published>2018-10-30T10:47:00+00:00</published><updated>2018-10-30T10:47:00+00:00</updated><id>https://help.ignissoftware.nl//keuringsobject/Looplijst-openen</id><content type="html" xml:base="https://help.ignissoftware.nl//keuringsobject/Looplijst-openen/">&lt;p&gt;De looplijst van een werkadres kun je openen door eerst de servicebon van het betreffende werkadres te openen en daarna klik je op &lt;img src=&quot;/images/2018-11-09-09-09-23.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
@@ -272,13 +322,4 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/tvaddonpm.apk&quot; download=&quot;&quot;&gt;Point Mobile&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/tvaddon.aosp7.apk&quot; download=&quot;&quot;&gt;Android 7&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Download: Laatste versie</summary></entry><entry><title type="html">Update de Ignis Mobile app</title><link href="https://help.ignissoftware.nl//algemeen/update-de-ignis-mobile-app/" rel="alternate" type="text/html" title="Update de Ignis Mobile app" /><published>2018-10-30T00:00:00+00:00</published><updated>2018-10-30T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//algemeen/update-de-ignis-mobile-app</id><content type="html" xml:base="https://help.ignissoftware.nl//algemeen/update-de-ignis-mobile-app/">&lt;p&gt;Doorloop de volgende stappen:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Swipe met je vinger van links naar rechts over het scherm..&lt;/li&gt;
-  &lt;li&gt;Kies ‘Overzicht’ uit het menu wat nu verschijnt.&lt;/li&gt;
-  &lt;li&gt;Klik op het icoon rechtsboven. &lt;img src=&quot;/images/2018-10-30-09-22-42.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Onder het kopje update voer je de dagcode in.&lt;/li&gt;
-  &lt;li&gt;De dagcode bestaat uit 2 groepjes van 3 cijfers. Let op! er moet een spatie staan tussen de 2 groepjes van cijfers.&lt;/li&gt;
-  &lt;li&gt;Klik daarna op update.  &lt;img src=&quot;/images/2018-10-30-09-11-03.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Doorloop de volgende stappen:</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Download: Laatste versie</summary></entry></feed>
