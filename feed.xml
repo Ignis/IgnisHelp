@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://help.ignissoftware.nl//feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.ignissoftware.nl//" rel="alternate" type="text/html" /><updated>2018-11-20T18:14:22+00:00</updated><id>https://help.ignissoftware.nl//</id><title type="html">Ignis help</title><subtitle>Knowledge base for Ignis Mobile.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Versie log</title><link href="https://help.ignissoftware.nl//versiebeheer/versie-historie/" rel="alternate" type="text/html" title="Versie log" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//versiebeheer/versie-historie</id><content type="html" xml:base="https://help.ignissoftware.nl//versiebeheer/versie-historie/">&lt;table&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://help.ignissoftware.nl//feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.ignissoftware.nl//" rel="alternate" type="text/html" /><updated>2018-11-20T18:19:09+00:00</updated><id>https://help.ignissoftware.nl//</id><title type="html">Ignis help</title><subtitle>Knowledge base for Ignis Mobile.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Versie log</title><link href="https://help.ignissoftware.nl//versiebeheer/versie-historie/" rel="alternate" type="text/html" title="Versie log" /><published>2018-11-09T00:00:00+00:00</published><updated>2018-11-09T00:00:00+00:00</updated><id>https://help.ignissoftware.nl//versiebeheer/versie-historie</id><content type="html" xml:base="https://help.ignissoftware.nl//versiebeheer/versie-historie/">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Versie&lt;/strong&gt;&lt;/td&gt;
@@ -157,8 +157,9 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Tab Algemeen#
-Onder het kopje ‘&lt;em&gt;Object&lt;/em&gt;’ staan de details van het object waarvoor een keuring wordt gemaakt. Door op die details te klikken kun je de keuringsobject details wijzigen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tab Algemeen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Onder het kopje ‘&lt;em&gt;Object&lt;/em&gt;’ staan de details van het object waarvoor een keuring wordt gemaakt. Door op die details te klikken kun je de keuringsobject details wijzigen.&lt;/p&gt;
 
 &lt;p&gt;Onder het kopje ‘&lt;em&gt;keuring&lt;/em&gt;’ bevinden zich:&lt;/p&gt;
 &lt;ul&gt;
@@ -184,7 +185,21 @@ Onder het kopje ‘&lt;em&gt;Object&lt;/em&gt;’ staan de details van het objec
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Onder het kopje &lt;em&gt;Opmerking&lt;/em&gt; kun informatie gegeven worden over b.v. de reden van afkeur&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Hiermee verlaat je het keuringsresultaat Dit opent de winkelmand om verbruikte materialen toe te voegen Voor het toevoegen van foto’s aan de keuring Voor het maken van adviezen tbv vervolgactie ‘offerte maken’</summary></entry><entry><title type="html">Looplijst</title><link href="https://help.ignissoftware.nl//keuringsobject/Looplijst-openen/" rel="alternate" type="text/html" title="Looplijst" /><published>2018-10-30T10:47:00+00:00</published><updated>2018-10-30T10:47:00+00:00</updated><id>https://help.ignissoftware.nl//keuringsobject/Looplijst-openen</id><content type="html" xml:base="https://help.ignissoftware.nl//keuringsobject/Looplijst-openen/">&lt;p&gt;De looplijst van een werkadres kun je openen door eerst de servicebon van het betreffende werkadres te openen en daarna klik je op &lt;img src=&quot;/images/2018-11-09-09-09-23.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Onder het kopje &lt;em&gt;Opmerking&lt;/em&gt; kun informatie gegeven worden over b.v. de reden van afkeur&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tab Checklijst&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hier bevinden zich de punten waarop het object gecontroleerd moet worden.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tab Foto&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dit geeft een overzicht van de foto’s die gemaakt zijn. Per foto kan een opmerking geplaatst worden. Tevens is het mogelijk om markeringen aan te brengen op een foto.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tab Mandje&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Onder het kopje &lt;em&gt;‘Verbruikte materialen’&lt;/em&gt; staan de artikelen die gekozen zijn in de winkelmand.&lt;/p&gt;
+
+&lt;p&gt;Onder het kopje &lt;em&gt;‘Adviesartikelen’&lt;/em&gt; staan de artikelen die geadviseerd worden. Wanneer de vervolgactie ‘Offerte maken’ is worden deze artikelen opgenomen in de offerte die door de backoffice gemaakt kan worden.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Hiermee verlaat je het keuringsresultaat Dit opent de winkelmand om verbruikte materialen toe te voegen Voor het toevoegen van foto’s aan de keuring Voor het maken van adviezen tbv vervolgactie ‘offerte maken’</summary></entry><entry><title type="html">Looplijst</title><link href="https://help.ignissoftware.nl//keuringsobject/Looplijst-openen/" rel="alternate" type="text/html" title="Looplijst" /><published>2018-10-30T10:47:00+00:00</published><updated>2018-10-30T10:47:00+00:00</updated><id>https://help.ignissoftware.nl//keuringsobject/Looplijst-openen</id><content type="html" xml:base="https://help.ignissoftware.nl//keuringsobject/Looplijst-openen/">&lt;p&gt;De looplijst van een werkadres kun je openen door eerst de servicebon van het betreffende werkadres te openen en daarna klik je op &lt;img src=&quot;/images/2018-11-09-09-09-23.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
