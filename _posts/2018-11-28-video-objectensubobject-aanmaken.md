@@ -8,7 +8,7 @@ type: Document
 page: mobile
 ---
 
-<video width="600" height="800" autoplay>
+<video  autoplay>
   <source src="https://help.ignissoftware.nl/videos/ObjectMetSubObject_aanmaken.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
