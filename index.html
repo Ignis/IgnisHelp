@@ -6,7 +6,9 @@
 	{% for category in categories %}
 		{% assign name = category[0] %}
 		{% assign posts = category[1] %}
+		{% assign desktopPosts = posts | where:"set","" %}
 		{% assign size = posts | size %}
+		{% if size > 0 }
 		<section class="category">
 				<h3>
 					<a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ name | replace: "-", " " }}</a>
@@ -22,5 +24,6 @@
 				{% endif %}
 			</ul>
 		</section>
+		{% endif %}
 	{% endfor %}
 </section>
