@@ -4,6 +4,7 @@ title: Looplijst
 categories:
   - Keuringsobject
 description:
+page: mobile
 type: Document
 ---
 
