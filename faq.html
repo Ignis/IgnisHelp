@@ -2,7 +2,7 @@
 ---
 
 <section class="categories">
-	{% assign categories = site.categories | where:"set","desktop" | sort %}
+	{% assign categories = site.categories | sort %}
 	{% for category in categories %}
 		{% assign name = category[0] %}
 		{% assign posts = category[1] %}
@@ -14,6 +14,7 @@
 
 			<ul>
 				{% assign tutorials = posts | sort: "title" %}
+				{% assign desktopTutorials = tutorials | where:"set","desktop" %}
 				{% for tutorial in tutorials limit: 4 %}
 					<li><a href="{{ site.baseurl }}{{ tutorial.url }}">{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
 				{% endfor %}
