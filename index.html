@@ -6,8 +6,8 @@
 	{% for category in categories %}
 		{% assign name = category[0] %}
 		{% assign posts = category[1] %}
-		{% assign mobilePosts = posts | where:"set",blank %}
-		{% assign size = mobilePosts | size %}
+		<!--{% assign mobilePosts = posts | where:"set",blank %}-->
+		{% assign size = posts | size %}
 		{% if size > 0 %}
 		<section class="category">
 				<h3>
@@ -15,7 +15,7 @@
 				</h3>
 
 			<ul>
-				{% assign tutorials = mobilePosts | sort: "title" %}
+				{% assign tutorials = posts | sort: "title" %}
 				{% for tutorial in tutorials limit: 4 %}
 					<li><a href="{{ site.baseurl }}{{ tutorial.url }}">{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
 				{% endfor %}
