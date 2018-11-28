@@ -5,6 +5,7 @@ categories:
   - Setup
 description:
 type: Document
+page: desktop
 ---
 
 Test Desktop
