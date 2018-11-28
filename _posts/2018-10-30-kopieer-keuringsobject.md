@@ -4,6 +4,7 @@ title: Kopieer keuringsobject
 categories:
   - Keuringsobject
 description:
+page: mobile
 type: Video
 ---
 
