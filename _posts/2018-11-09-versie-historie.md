@@ -15,7 +15,7 @@ type: Document
 - Performance verbeteringen div. schermen
 - Filteren looplijst verbeterd
 - Volgorde servicewissel vragen gaat niet goed
-- bij subobjectlijst altijd moederobject als eerste tonen
+- Direct menu tonen bij aanmaken object
   Kilometerregistratie standaard auto selectie bij invoer
 - Checklist subkopjes moeten kleur krijgen of tekst vet
 - Navigatie door locatieboom versnellen. Klik is selectie. Langer vasthouden is toon menu
