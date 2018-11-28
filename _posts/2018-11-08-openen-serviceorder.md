@@ -4,6 +4,7 @@ title: Openen serviceorder
 categories:
   - Serviceorder
 description:
+page: mobile
 type: Document
 ---
 
