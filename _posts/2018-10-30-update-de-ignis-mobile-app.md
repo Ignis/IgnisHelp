@@ -4,6 +4,7 @@ title: Update de Ignis Mobile app
 categories:
   - Algemeen
 description:
+page: mobile
 type: Document
 ---
 
