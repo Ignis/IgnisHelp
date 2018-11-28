@@ -9,7 +9,7 @@
 <lastmod>2018-10-30T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://help.ignissoftware.nl//algemeen/Instructie-filmpjes/</loc>
+<loc>https://help.ignissoftware.nl//instructie%20filmpjes/Instructie-filmpjes/</loc>
 <lastmod>2018-10-30T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -68,6 +68,9 @@
 <loc>https://help.ignissoftware.nl//category/setup/</loc>
 </url>
 <url>
+<loc>https://help.ignissoftware.nl//category/instructie-filmpjes/</loc>
+</url>
+<url>
 <loc>https://help.ignissoftware.nl//category/keuringsobject/</loc>
 </url>
 <url>
@@ -78,8 +81,5 @@
 </url>
 <url>
 <loc>https://help.ignissoftware.nl//category/versiebeheer/</loc>
-</url>
-<url>
-<loc>https://help.ignissoftware.nl//category/instructie-filmpjes/</loc>
 </url>
 </urlset>
