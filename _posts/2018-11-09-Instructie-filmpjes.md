@@ -1,8 +1,8 @@
 ---
 date: 2018-10-30 00:00:00
-title: Instructie filmpjes
+title: Diversen
 categories:
-  - Algemeen
+  - Instructie filmpjes
 description:
 page: mobile
 type: Document
