@@ -4,6 +4,7 @@ title: Keuringsresultaat
 categories:
   - Keuringsresultaat
 description:
+page: mobile
 type: Document
 ---
 |-------                         |                                   |
