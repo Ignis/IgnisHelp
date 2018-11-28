@@ -3,6 +3,7 @@ date:
 title: Desktop openen
 categories:
   - Algemeen
+set: desktop
 description:
 type: Document
 ---
