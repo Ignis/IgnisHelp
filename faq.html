@@ -8,7 +8,7 @@
 		{% assign posts = category[1] %}
 		{% assign desktopPosts = posts | where:"page","desktop" %}
 		{% assign size = posts | size %}
-		{% if size > 0 }
+		{% if size > 0 %}
 		<section class="category">
 				<h3>
 					<a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ name | replace: "-", " " }}</a>
