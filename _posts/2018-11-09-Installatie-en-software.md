@@ -4,6 +4,7 @@ title: Installatie en addon
 categories:
   - Setup
 description:
+page: mobile
 type: Document
 ---
 
