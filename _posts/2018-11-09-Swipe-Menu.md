@@ -4,6 +4,7 @@ title: Swipe menu
 categories:
   - Algemeen
 description:
+page: mobile
 type: Document
 ---
 
