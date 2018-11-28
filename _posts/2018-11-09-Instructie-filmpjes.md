@@ -4,6 +4,7 @@ title: Instructie filmpjes
 categories:
   - Algemeen
 description:
+page: mobile
 type: Document
 ---
 

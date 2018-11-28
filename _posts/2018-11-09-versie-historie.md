@@ -4,6 +4,7 @@ title: Versie log
 categories:
   - Versiebeheer
 description:
+page: mobile
 type: Document
 ---
 

@@ -4,6 +4,7 @@ title: Serviceorder scherm
 categories:
   - Serviceorder
 description:
+page: mobile
 type: Document
 ---
 |-------                         |                                   |
