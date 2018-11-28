@@ -1,5 +1,5 @@
 ---
-date:
+date: 2018-11-28 10:25:06
 title: Desktop openen
 categories:
   - Algemeen
