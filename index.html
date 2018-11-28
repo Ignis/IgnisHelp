@@ -6,7 +6,7 @@
 	{% for category in categories %}
 		{% assign name = category[0] %}
 		{% assign posts = category[1] %}
-		{% assign desktopPosts = posts | where:"set","" %}
+		{% assign desktopPosts = posts | where:"page","" %}
 		{% assign size = posts | size %}
 		{% if size > 0 }
 		<section class="category">
