@@ -9,6 +9,20 @@ type: Document
 ---
 
 |-----      |------     |
+|**Versie**     |<a href="http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk">0.9.0.0</a>      |
+|Datum      |28-11-2018 |
+- Punten tijdregistratie
+- Performance verbeteringen div. schermen
+- Filteren looplijst verbeterd
+- Volgorde servicewissel vragen gaat niet goed
+- bij subobjectlijst altijd moederobject als eerste tonen
+  Kilometerregistratie standaard auto selectie bij invoer
+- Checklist subkopjes moeten kleur krijgen of tekst vet
+- Navigatie door locatieboom versnellen. Klik is selectie. Langer vasthouden is toon menu
+- Uren invullen proces gelijk maken aan Windows PDA
+- standaard teksten uit lijst kunnen kiezen bij memo velden gekoppeld aan kenmerken
+
+|-----      |------     |
 |**Versie**     |<a href="http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk">0.8.2.1</a>      |
 |Datum      |09-11-2018 |
 
