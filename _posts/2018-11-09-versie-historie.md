@@ -9,7 +9,18 @@ type: Document
 ---
 
 |-----      |------     |
-|**Versie**     |<a href="http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk">0.9.0.0</a>      |
+|**Versie**     |<a href="http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk">0.9.0.4</a>      |
+|Datum      |12-12-2018 |
+- Optie om direct email te sturen na afmelden bon
+- In tijdregistratie scherm knop om lopende serviceorder te openen
+- Optimalisatie van filters in looplijst
+- Correct opslaan van kilometerregistratie
+- fix update status winkelmand
+- fix afmelden bon in combinatie met tijdregistratie
+- Diverse kleine verbeteringen
+-  
+|-----      |------     |
+|**Versie**     |<a href="http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.903.apk">0.9.0.3</a>      |
 |Datum      |28-11-2018 |
 - Punten tijdregistratie
 - Performance verbeteringen div. schermen
@@ -23,7 +34,7 @@ type: Document
 - standaard teksten uit lijst kunnen kiezen bij memo velden gekoppeld aan kenmerken
 
 |-----      |------     |
-|**Versie**     |<a href="http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk">0.8.2.1</a>      |
+|**Versie**     |<a href="http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.821.apk">0.8.2.1</a>      |
 |Datum      |09-11-2018 |
 
 - Servicewissel bestaande blusser Bouwjaar - 5 voor keuring '#127 BUGS
